@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul/Downloads/Discord Bot/jackson-annotations-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul/Downloads/Discord Bot/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul/Downloads/Discord Bot/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mridul/Downloads/Discord Bot/JDA-3.6.0_356-withDependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
